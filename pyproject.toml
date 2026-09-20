@@ -1,7 +1,9 @@
 [project]
 name = "neural-network"
 version = "0.1.0"
-description = "Add your description here"
+description = "Neural Network Implementation Exercise Set"
+license = "MIT"
+license-files = ["LICENSE"]
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
